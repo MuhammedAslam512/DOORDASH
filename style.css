@@ -1980,6 +1980,15 @@ footer {
         line-height: 22px;
     }
 
+    .fullset-cards {
+        display: flex;
+        flex-direction: column;
+        -webkit-box-align: center;
+        align-items: center;
+        width: 100%;
+        background-color: rgb(254, 241, 238);
+    }
+
     #fullfooter {
         box-sizing: border-box;
         max-width: 100%;
@@ -2158,10 +2167,10 @@ footer {
         width: 1184px;
         box-sizing: border-box;
     }
-    
 
 
-    
 
-    
+
+
+
 }
